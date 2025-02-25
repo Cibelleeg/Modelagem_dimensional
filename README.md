@@ -25,6 +25,7 @@ O projeto está organizado da seguinte forma:
 
 # 3. Dependências Necessárias
 As seguintes bibliotecas são utilizadas no projeto:
+
         pandas → Manipulação de dados
         matplotlib → Visualização de gráficos
         seaborn → Análises gráficas aprimoradas
